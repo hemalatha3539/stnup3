@@ -6,6 +6,7 @@
     border-radius:6px;
     border: 6px double black;
    margin: 100;
+    flex-wrap: wrap;
 }
 
 .btn:hover{
